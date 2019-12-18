@@ -39,7 +39,7 @@ export function makeChart() {
             name: 'kauzy',
             data: [
                 ['David Rath a spol.', 26],
-                ['Jana Nagyová a spol.', 19],
+                ['Jana Nagyová a spol.', 20],
                 ['Kauza Metanol', 10],
                 ['Lukáš Nečesaný', 6],
                 ['Marek Dalík', 5],
@@ -60,7 +60,7 @@ export function makeChart() {
                 ['Mostecká uhelná', 1],
                 ['Vraždy Anny Janatkové', 1],
                 ['Kauzy solárních elektráren', 1],
-                ['Jaromír Balda', 1],
+                ['Jaromír Balda', 2],
                 ['Nehoda Romana Janouška', 1],
                 ['Střet zájmů Andreje Babiše', 1],
                 ['Kevin Dahlgren', 1],
