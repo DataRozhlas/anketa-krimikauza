@@ -58,7 +58,7 @@ export function makeChart() {
                 ['Nákup letadel CASA', 1],
                 ['Amnestie Václava Klause', 1],
                 ['Mostecká uhelná', 1],
-                ['Vraždy Anny Janatkové', 1],
+                ['Vražda Anny Janatkové', 1],
                 ['Kauzy solárních elektráren', 1],
                 ['Jaromír Balda', 2],
                 ['Nehoda Romana Janouška', 1],

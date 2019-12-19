@@ -8,13 +8,13 @@ options: [] #wide, noheader (, nopic)
 ---
 České soudy od začátku roku 2010 řešily více než 810 tisíc trestních případů. Tři z nich ale ze statistik vyčnívají. Bezpečnostní experti a osobnosti českého práva se shodli, že patří mezi kauzy desetiletí.
 
-Server iROZHLAS.cz uspořádal anketu mezi odborníky při příležitosti konce desetiletí (2010 – 2019). Zúčastnili se jí přitom zástupci všech klíčových institucí českého právního systému: bývalí ministři spravedlnosti, žalobci z vrchního i nejvyššího státního zastupitelství i soudci z jednotlivých pater soudního aparátu.
+Server iROZHLAS.cz uspořádal anketu mezi odborníky při příležitosti konce desetiletí (2010 – 2019). Zúčastnili se jí přitom zástupci všech klíčových institucí českého právního systému: bývalí ministři spravedlnosti, žalobci z vrchního i nejvyššího státního zastupitelství i soudci z jednotlivých pater soudního aparátu. Svůj pohled přidali politologové, kriminologové i policejní důstojníci, činní či ve výslužbě.
 
 <wide>
   <div id="lineup"></div>
 </wide>
 
-Svůj pohled přidali politologové, kriminologové i policejní důstojníci, činní či ve výslužbě.
+_Všechny sesbírané odpovědi najdete [na konci článku](#anketa_hook)._
 
 Nominacím, nepřekvapivě, dominovaly dvě kauzy. Spis Důvěra, v němž policie zdokumentovala korupční praktiky exhejtmana Davida Ratha. A případ kolem někdejší šéfky kabinetu premiéra Jany Nagyové, nyní Nečasové.
 
@@ -27,12 +27,6 @@ V úzkém výběru se ocitla i kauza souhrnně označovaná jako Metanol (závad
 Jak prosvítá z komentářů, první dvě kauzy mají společného jmenovatele. „Přiznejme si, že tři největší politické trestní kauzy posledního desetileté by se neodehrály, pokud by státní zastupitelství nemělo pocit, že si je může ‚dovolit‘ – tedy že je za odvahu nikdo z politiky nepotrestá,“ říká soudce Nejvyššího správního soudu Karel Šimka.
 
 Bodem zlomu, nejenom podle něj, byl justiční ping-pong s vyšetřováním někdejšího vicepremiéra Jiří Čunka (KDU – ČSL). „Ta kauza způsobila rozkol mezi částí státních zástupců a politikou. Vzniklo jakési emancipační hnutí v části mladší generace státních zástupců. A ve veřejnosti se rozšířil pocit - myslím, že spíš neoprávněný, nicméně o to silnější -, že politici mají tendenci zametat citlivé kauzy pod koberec prostřednictvím spřízněných lidí v justičním systému,“ připomíná Šimka, který vystudoval vedle práv i politologii.
-
-_Všechny sesbírané odpovědi si přečtěte v následujícím přehledu (text pokračuje pod anketou):_
-
-<wide>
-  <div id="anketa-wrapper"></div>
-</wide>
 
 Advokát Václav Vlk nepřímo přitakává, jen volí jiná, ostřejší slova. „Obecně trestními kauzami desetiletí jsou veškerá stíhání politiků za jejich rozhodování, kde při hledání té hranice, kdy už jde o trestný čin, se brutálně kope až do hájenství svobodného rozhodování politických subjektů,“ myslí si Vlk a naráží na kauzu Nagygate.
 
@@ -106,5 +100,14 @@ Tři nominace obdržela největší masová vražda v novodobé české historii
 
 Pražská vrchní návladní Lenka Bradáčová do svých tipů zahrnula i případ Marka Dalíka, a to jako kontrapunkt k nasvíceným případům Davida Ratha a Jany Nagyové. 
 
-„Opět byla trestním právem zasažena vlivná osoba tuzemské politické scény, avšak s ohledem na styl obhajoby proběhla tato věc v mediálním prostoru bez větších emocí a možná i díky tomu nebude hodnocena mezi kauzami zásadními. Z toho je zřejmé, že způsob obhajoby, mediální prezentace obviněných a emotivní podtext hrají v současné době zásadní roli při formování názoru veřejnosti na fungování justice,“ vysvětlila svůj výběr Bradáčová. 
+„Opět byla trestním právem zasažena vlivná osoba tuzemské politické scény, avšak s ohledem na styl obhajoby proběhla tato věc v mediálním prostoru bez větších emocí a možná i díky tomu nebude hodnocena mezi kauzami zásadními. Z toho je zřejmé, že způsob obhajoby, mediální prezentace obviněných a emotivní podtext hrají v současné době zásadní roli při formování názoru veřejnosti na fungování justice,“ vysvětlila svůj výběr Bradáčová.
 
+<div id="anketa_hook"></div>
+
+<wide>
+  <div id="anketa-wrapper"></div>
+</wide>
+
+_VZÁCNÉ SNÍMKY, VZÁCNÝ OKAMŽIK. Fotografie, které svého času předložili policisté mandátovému výboru, zachycují tehdejšího poslance Davida Ratha okamžitě po zatčení. Viditelně překvapený Rath se snažil krabici uloženou do igelitové tašky chránit v náruči. Snímky ukazují kolt, jímž se vedle obušku tehdejší politik vyzbrojil. I navzdory jejich špatné kvalitě je patrný Rathův odevzdaný výraz a ztuhlé rysy do té doby suverénního politika._
+
+<wide><img style="width: 100%;" src="https://www.irozhlas.cz/sites/default/files/uploader_unmanaged/rath-colage-1_191219-190932_ace.jpg"></wide>
