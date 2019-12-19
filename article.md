@@ -1,8 +1,10 @@
 title: "Kabelky, anebo miliony v krabici od vína? 41 osobností českého práva vybralo kriminální kauzu desetiletí"
 perex: "Jaká krimikauza nejvíce rezonovala končící dekádou? iROZHLAS.cz hledal odpověď v bezpečnostní komunitě i v právnickém světě a dospěl k jednoznačnému výsledku: trestním případem desetiletí je stíhání a odsouzení bývalého poslance a hejtmana Davida Ratha."
+coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/krimi-_191219-143112_ace.jpg?itok=jAGAfO5d
+coverimg_note: "koláž iROZHLAS.cz"
 styles: []
 libraries: [highcharts] #jquery, d3, highcharts, datatables
-options: [noheader, nopic] #wide, noheader (, nopic)
+options: [] #wide, noheader (, nopic)
 ---
 České soudy od začátku roku 2010 řešily více než 810 tisíc trestních případů. Tři z nich ale ze statistik vyčnívají. Bezpečnostní experti a osobnosti českého práva se shodli, že patří mezi kauzy desetiletí.
 
